@@ -1,0 +1,10 @@
+[package]
+name = "autoclicker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.27"
+enigo = "0.2.1"
+rand = "0.8"
+device_query = "1.1"
